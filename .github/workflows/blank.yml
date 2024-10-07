@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Microsoft</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div>
+    <div class="div1">
+      <img src="./images/1.jpg">
+      <a href="https://www.microsoft.com/en-us/edge?form=MI13F3&OCID=MI13F3">Download now</a>
+    </div>
+    <div class="div2">
+      <img src="./images/2.jpg">
+      <a href="https://www.microsoft.com/en/microsoft-365/onedrive/online-cloud-storage?icid=mscom_marcom_CPH3a_OneDrive">Learn more</a>
+    </div>
+    <div class="div3">
+      <img src="./images/3.jpg">
+      <a href="https://www.microsoft.com/en/microsoft-365/outlook-mobile-for-android-and-ios?icid=mscom_marcom_CPH4a_OutlookApp">Download now</a>
+    </div>
+    <div class="div4">
+      <img src="./images/4.jpg">
+      <a href="https://www.microsoft.com/en/microsoft-365/onenote/digital-note-taking-app?icid=mscom_marcom_MPH1a_OneNote">Learn more</a>
+    </div>
+    
+    <div class="forbusiness">
+      <h2>For business</h2>
+      <div class=div5>
+        <img src="./images/5.jpg">
+        <a href="https://www.microsoft.com/en/microsoft-365/business/copilot-for-microsoft-365?icid=mscom_marcom_CPW1a_M365forBusiness_Copilot">Learn more</a>
+      </div>
+      <div class="div6">
+        <img src="./images/6.jpg">
+        <a href="https://visualstudio.microsoft.com/downloads/?icid=mscom_marcom_CPW2a_VisualStudio22">Download Visual Studio 2022</a>
+      </div>
+      <div class="div7">
+        <img src="./images/7.jpg">
+        <a href="https://www.microsoft.com/en/microsoft-teams/small-medium-business?icid=mscom_marcom_CPW3a_TeamsForBusiness">Find the right plan for your business</a>
+      </div>
+      <div class="div8">
+        <img src="./images/8.jpg">
+        <a href="https://www.microsoft.com/en-ww/windows-365?icid=mscom_marcom_CPW4a_Windows365">Get it today</a>
+      </div>
+      
+    </div>
+    
+  </div>
+</body>
+</html>
